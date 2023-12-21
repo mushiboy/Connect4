@@ -63,5 +63,3 @@ To run the Connect4 app, follow these steps:
 This project incorporates various Swift programming concepts, UIKit, Core Data, and dynamic animations. It serves as a practical demonstration of iOS app development skills.
 
 Feel free to explore the codebase, experiment with the app, and provide feedback!
-
-**Note:** Make sure to check for any updates or changes to the project structure or dependencies since the last knowledge update in January 2022.
